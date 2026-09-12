@@ -4,7 +4,7 @@
 [![Linkedin: lfelicio013](https://img.shields.io/badge/-lfelicio013-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lfelicio013/)](https://www.linkedin.com/in/lfelicio013/)
 [![GitHub: LuizEboli](https://img.shields.io/github/followers/luizeboli?label=follow&style=social)](https://github.com/luizeboli)
 
-I'm Luiz Felicio, a nature addicted **Frontend Developer** and passionate about</em> **<𝙲𝚘𝚍𝚒𝚗𝚐 />**.
+I'm Luiz Felicio, a nature addicted **Software Engineer** and passionate about</em> **<𝙲𝚘𝚍𝚒𝚗𝚐 />**.
 
 Take a look at my repos 🎉
 
